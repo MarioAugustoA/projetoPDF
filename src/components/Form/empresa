@@ -1,0 +1,32 @@
+<div class="container" id="margin">
+            <div class="content">
+                <div class="tituloc">
+                    <div class="texto">
+                        Empresa prestadora do serviço:
+                    </div>
+                </div>
+                <div class="inp">
+                <div class="cima">
+                    <div class="esquerda1">
+                        <label for="user">Nome:</label>
+                        <input class="cliente" type="text" id="user_empresaname" />
+
+                    </div>
+                    <div class="direita1">
+                        <label for="user">Telefone:</label>
+                        <input class="cliente" type="text" id="user_empresatel" />
+                    </div>
+                </div>
+                <div class="baixo">
+                    <div class="esquerda2">
+                        <label for="user">CNPJ:</label>
+                        <input class="cliente" type="text" id="user_cnpj" />
+                    </div>
+                    <div class="direita2">
+                        <label for="user">Endereço:</label>
+                        <input class="cliente" type="text" id="user_empresaendereco" />
+                    </div>
+                </div>
+                </div>
+            </div>
+       </div>
